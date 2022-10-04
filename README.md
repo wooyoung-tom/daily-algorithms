@@ -7,9 +7,3 @@
 # 문제 출처
 - [Baekjoon Online Judge](https://www.acmicpc.net)
 - [프로그래머스](https://programmers.co.kr)
-- 추후 추가
-
-## 단계 1
-- [백준 / 11866 / 요세푸스 문제 0](/week_1/0913_mon_baekjoon_11866.md)
-- [백준 / 1874 / 스택 수열](/week_1/0914_tue_baekjoon_1874.md)
-- [백준 / 1929 / 소수 구하기](/week_1/0915_wed_baekjoon_1929.md)
